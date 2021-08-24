@@ -7,7 +7,7 @@
 
 ## 제1주차
 
-- **A섹션(Course Introduction)** [Beamer________W1A.pdf](https://github.com/hxk271/Syllabi/blob/main/8969001(2021-2).pdf)
+-  [**A섹션(Course Introduction)**](https://github.com/hxk271/Syllabi/blob/main/8969001(2021-2).pdf)
 
-- **B섹션(What is Empirical Science?)** [W1B.pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
+-  [**B섹션(What is Empirical Science?)**] [W1B.pdf](https://github.com/hxk271/Syllabi/blob/main/5663062(2021-2).pdf)
 
