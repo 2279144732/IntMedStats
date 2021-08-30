@@ -13,4 +13,4 @@
 
 -  [**B섹션(What is Empirical Science?)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1B.pdf)
 
--  [퀴즈 #1]
+-  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W1A.docx)
