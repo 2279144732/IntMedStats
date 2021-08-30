@@ -11,6 +11,6 @@
 
 -  [**A섹션(Course Introduction)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1A.pdf)
 
--  [**B섹션(What is Empirical Science?)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1A.pdf)
+-  [**B섹션(What is Empirical Science?)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1B.pdf)
 
 -  [퀴즈 #1]
