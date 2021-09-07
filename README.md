@@ -20,9 +20,9 @@
 
 ## 제2주차
 
--  [**A섹션(Course Introduction)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2A.pdf)
+-  [**A섹션(Measures of Central Tendency)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2A.pdf)
 
--  [**B섹션(What is Empirical Science?)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2B.pdf)
+-  [**B섹션(Measures of Dispersion Tendency)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2B.pdf)
 
 -  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W2A.docx)
 
