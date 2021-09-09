@@ -13,7 +13,7 @@
 
 -  [**B섹션(What is Empirical Science?)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1B.pdf)
 
--  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W1A.docx)
+-  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W1.docx)
 
 
 <br/>
@@ -24,5 +24,5 @@
 
 -  [**B섹션(Measures of Dispersion Tendency)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2B.pdf)
 
--  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W2A.docx)
+-  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W2.docx)
 
