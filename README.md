@@ -24,5 +24,5 @@
 
 -  [**B섹션(Measures of Dispersion Tendency)**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2B.pdf)
 
--  [퀴즈 #1](https://github.com/hxk271/IntMedStats/blob/main/HW_W2.docx)
+-  [퀴즈 #2](https://github.com/hxk271/IntMedStats/blob/main/HW_W2.docx)
 
