@@ -1,3 +1,5 @@
+![Logo](http://francky.me/images/quora001.png)
+
 # 사회통계연습(충북대학교 사회학과 2021년 2학기)
 
 
