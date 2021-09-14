@@ -26,3 +26,15 @@
 
 -  [퀴즈 #2](https://github.com/hxk271/IntMedStats/blob/main/HW_W2.docx)
 
+
+
+<br/>
+
+## 제3주차
+
+-  [**A섹션: Association of Two or More Variables**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W3A.pdf)
+
+-  [**B섹션: More on Association of Two or More Variables**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W3B.pdf)
+
+-  [퀴즈 #3](https://github.com/hxk271/IntMedStats/blob/main/HW_W3.docx)
+
