@@ -52,7 +52,7 @@
 
 -  [**B섹션: Bivariate/Multivariate Data Visualization and More**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W4B.pdf)
 
--  [퀴즈 #3](https://github.com/hxk271/IntMedStats/blob/main/HW_W4.docx)
+-  [퀴즈 #4](https://github.com/hxk271/IntMedStats/blob/main/HW_W4.docx)
 
 
 
