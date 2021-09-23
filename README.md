@@ -11,7 +11,7 @@
 
 <br/>
 
-## 제1주차
+## 제1주차(Course Introduction & What is Empirical Science)
 
 -  [**A섹션: Course Introduction**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W1A.pdf)
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-## 제2주차
+## 제2주차(Measures of Central Tendency and Dispersion)
 
 -  [**A섹션: Measures of Central Tendency**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W2A.pdf)
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 제3주차
+## 제3주차(Measures of Association)
 
 -  [**A섹션: Association of Two or More Variables**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W3A.pdf)
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-## 제4주차(
+## 제4주차(Graphs and Visualization)
 
 -  [**A섹션: Univariate Data Visualization**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W4A.pdf)
 
