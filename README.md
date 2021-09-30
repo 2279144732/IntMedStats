@@ -64,7 +64,7 @@
 
 -  [**B섹션: 이산확률분포와 연속확률분포**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W5B.pdf)
 
--  [퀴즈 #4](https://github.com/hxk271/IntMedStats/blob/main/HW_W5.docx)
+-  [퀴즈 #5](https://github.com/hxk271/IntMedStats/blob/main/HW_W5.docx)
 
 
 
