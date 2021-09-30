@@ -56,3 +56,15 @@
 
 
 
+<br/>
+
+## 제5주차(Probability and Probability Distribution)
+
+-  [**A섹션: 확률과 확률분포**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W5A.pdf)
+
+-  [**B섹션: 이산확률분포와 연속확률분포**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W5B.pdf)
+
+-  [퀴즈 #4](https://github.com/hxk271/IntMedStats/blob/main/HW_W5.docx)
+
+
+
