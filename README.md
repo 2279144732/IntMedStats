@@ -70,11 +70,11 @@
 
 <br/>
 
-## 제6주차(Probability and Probability Distribution)
+## 제6주차(Sampling Distribution and Estimation)
 
--  [**A섹션: 표집**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6A.pdf)
+-  [**A섹션: 표본과 표집분포**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6A.pdf)
 
--  [**B섹션: 추정**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6B.pdf)
+-  [**B섹션: 통계적 추정**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6B.pdf)
 
 -  [퀴즈 #6](https://github.com/hxk271/IntMedStats/blob/main/HW_W6.docx)
 
