@@ -68,3 +68,15 @@
 
 
 
+<br/>
+
+## 제6주차(Probability and Probability Distribution)
+
+-  [**A섹션: 표집**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6A.pdf)
+
+-  [**B섹션: 추정**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W6B.pdf)
+
+-  [퀴즈 #6](https://github.com/hxk271/IntMedStats/blob/main/HW_W6.docx)
+
+
+
