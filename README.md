@@ -80,3 +80,15 @@
 
 
 
+<br/>
+
+## 제7주차(Hypothesis Test)
+
+-  [**A섹션: 임계값과 유의확률**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W7A.pdf)
+
+-  [**B섹션: 단측검정 및 가설검정 연습**](https://github.com/hxk271/IntMedStats/blob/main/Beamer________W7B.pdf)
+
+-  [퀴즈 #7](https://github.com/hxk271/IntMedStats/blob/main/HW_W7.docx)
+
+
+
